@@ -1,0 +1,5 @@
+﻿List Of Tasks 
+
+1.Create solution with all projects -Completed
+2.Create BOL With Entity Framework - Inprogress
+3.
